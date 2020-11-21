@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama appversion="6.1.10" id="node1" apprev="18007">
+  <input levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2308" overlap="1" levelingpitch="0" leveltilesize="510" levelbias="0.400" height="2308">
+    <level predecode="0" width="2308" preload="0" height="2308"/>
+    <level predecode="0" width="1154" preload="0" height="1154"/>
+    <level predecode="0" width="577" preload="0" height="577"/>
+    <level predecode="1" width="288" preload="1" height="288"/>
+    <preview color="0x808080" strip="1"/>
+  </input>
+  <view fovmode="0" pannorth="168">
+    <start tilt="0" projection="4" pan="0" fov="70"/>
+    <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+    <min fovpixel="2" tilt="-90" pan="0"/>
+    <max tilt="90" fovstereographic="270" scaletofit="1" pan="360" fov="120" fovfisheye="360"/>
+  </view>
+  <userdata description="" info="" author="" latitude="40.27976303" title="" tags="PhotomatixResults1" longitude="-111.73623830" datetime="" customnodeid="" nodeid="node1" copyright="" heading="168" comment="" source=""/>
+  <hotspots width="180" wordwrap="1" height="20">
+    <label bordercolor="0x000000" textalpha="1" enabled="1" width="180" borderalpha="1" borderradius="1" wordwrap="1" border="1" backgroundcolor="0xffffff" textcolor="0x000000" height="20" background="1" backgroundalpha="1"/>
+    <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+  </hotspots>
+  <media/>
+  <transition zoomin="0" type="crossdissolve" softedge="0" zoomspeed="2" enabled="1" zoomout="0" blendcolor="0x000000" zoomafteroutfov="20" zoomfov="20" zoomoutpause="1" blendtime="1" zoomafterinfov="90"/>
+  <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+  <control rubberband="0" lockedwheel="0" speedwheel="1" lockedmouse="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" invertcontrol="1" contextprojections="0" simulatemass="1" lockedkeyboardzoom="0"/>
+</panorama>
